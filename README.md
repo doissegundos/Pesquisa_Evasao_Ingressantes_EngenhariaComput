@@ -8,7 +8,7 @@
 
   - Perguntas com respostas binárias: Sim ou não, em alguns casos contém a alternativa "Não se aplica".
   
-  <img src="imagens/.png"  />
+  <img src="imagens/1.png"  />
   
   - Perguntas relacionadas ao nivel de concordancia, são divididas em 3 classes: "Discordo", "Indiferente", "Concordo"
   
